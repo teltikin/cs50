@@ -1,1 +1,1 @@
-# cs50
+# Programs from the CS50 Course
